@@ -19,12 +19,13 @@ Before getting started, make sure you have installed:
 
 ## 📁 Project Structure
 
-project-root/
-│── mindsdb_client.py     # MindsDB functions
-├── main.py               # FastAPI backend
-├── requirements.txt      # Python dependencies
-├── bingewatch.csv        # Data for BingeMate
-└── README.md             # This file
+project-root
+
+│── mindsdb_client.py    
+├── main.py             
+├── requirements.txt     
+├── bingewatch.csv        
+└── README.md             
 
 
 ## 🧪 Step-by-Step Setup
