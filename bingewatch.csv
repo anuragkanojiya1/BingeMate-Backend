@@ -1,0 +1,188 @@
+Title,Type,Year,Genre,IMDb_Rating,Summary
+The Shawshank Redemption,Movie,1994,Drama,9.2,"A banker, wrongfully imprisoned for murder, forms a friendship with a fellow inmate and finds hope in a harsh prison environment."
+The Godfather,Movie,1972,"Crime, Drama",9.2,"The aging patriarch of a mafia dynasty transfers control to his reluctant son, navigating power and betrayal."
+The Dark Knight,Movie,2008,"Action, Crime, Drama",9,"Batman faces the Joker, a chaotic criminal mastermind, in a battle to save Gotham from anarchy."
+The Godfather: Part II,Movie,1974,"Crime, Drama",9,"The Corleone family's saga continues, exploring Michael’s rise and Vito’s early life in a dual-timeline epic."
+12 Angry Men,Movie,1957,Drama,9,"Twelve jurors debate the fate of a young man accused of murder, revealing biases and moral dilemmas."
+Schindler's List,Movie,1993,"Biography, Drama, History",8.9,"A German industrialist saves over 1,100 Jews during the Holocaust by employing them in his factory."
+The Lord of the Rings: The Return of the King,Movie,2003,"Adventure, Drama, Fantasy",8.9,Frodo and Sam approach Mount Doom to destroy the One Ring as Aragorn leads a final stand against Sauron.
+Pulp Fiction,Movie,1994,"Crime, Drama",8.9,"Interwoven stories of criminals, hitmen, and a boxer collide in a nonlinear tale of violence and redemption."
+The Lord of the Rings: The Fellowship of the Ring,Movie,2001,"Adventure, Drama, Fantasy",8.8,"A hobbit, Frodo, inherits a powerful ring and embarks on a quest to destroy it, joined by a diverse fellowship."
+Inception,Movie,2010,"Action, Sci-Fi, Thriller",8.8,A thief with the ability to enter dreams must steal a secret but faces a complex heist that blurs reality.
+Fight Club,Movie,1999,Drama,8.8,"A disillusioned man forms an underground fight club with a mysterious stranger, spiraling into chaos."
+Forrest Gump,Movie,1994,"Drama, Romance",8.8,A man with a low IQ experiences and influences major historical events while pursuing his lifelong love.
+The Lord of the Rings: The Two Towers,Movie,2002,"Adventure, Drama, Fantasy",8.7,"The fellowship scatters, with Frodo and Sam facing dangers while others battle Saruman’s forces."
+The Matrix,Movie,1999,"Action, Sci-Fi",8.7,A hacker discovers a simulated reality and joins a rebellion to overthrow its controlling machines.
+Goodfellas,Movie,1990,"Biography, Crime, Drama",8.7,"A young man rises in the mob but faces the perils of loyalty, betrayal, and law enforcement."
+Se7en,Movie,1995,"Crime, Drama, Mystery",8.6,Two detectives hunt a serial killer using the seven deadly sins as motives for gruesome murders.
+Star Wars: Episode V - The Empire Strikes Back,Movie,1980,"Action, Adventure, Sci-Fi",8.7,The rebels face Imperial forces as Luke trains with Yoda and confronts Darth Vader’s dark revelations.
+The Silence of the Lambs,Movie,1991,"Crime, Drama, Thriller",8.6,An FBI cadet seeks help from a cannibalistic killer to catch another serial killer targeting women.
+Saving Private Ryan,Movie,1998,"Drama, War",8.6,A squad of soldiers ventures behind enemy lines to rescue a paratrooper during WWII.
+The Green Mile,Movie,1999,"Crime, Drama, Fantasy",8.6,"A death row guard discovers a prisoner with miraculous healing powers, questioning justice and humanity."
+Spirited Away,Movie,2001,"Animation, Adventure, Family",8.6,A young girl navigates a magical world to save her parents and find her way back home.
+City of God,Movie,2002,"Crime, Drama",8.6,"In Rio’s slums, two boys take divergent paths—one a photographer, the other a drug dealer—amid violence."
+The Departed,Movie,2006,"Crime, Drama, Thriller",8.5,"An undercover cop and a mole in the police infiltrate a Boston gang, racing to expose each other."
+The Prestige,Movie,2006,"Drama, Mystery, Sci-Fi",8.5,"Rival magicians obsess over outdoing each other, leading to a deadly game of deception and sacrifice."
+Back to the Future,Movie,1985,"Adventure, Comedy, Sci-Fi",8.5,"A teen accidentally travels to 1955 in a time-traveling DeLorean, altering his parents’ history."
+Gladiator,Movie,2000,"Action, Adventure, Drama",8.5,A betrayed Roman general seeks vengeance against the emperor who murdered his family.
+The Lion King,Movie,1994,"Animation, Adventure, Drama",8.5,"A young lion prince flees after his father’s murder, only to return to reclaim his throne."
+The Usual Suspects,Movie,1995,"Crime, Drama, Mystery",8.5,"A con artist recounts a heist gone wrong, revealing a mysterious criminal mastermind, Keyser Söze."
+Memento,Movie,2000,"Mystery, Thriller",8.4,"A man with short-term memory loss hunts his wife’s killer, using notes and tattoos to track clues."
+Avengers: Endgame,Movie,2019,"Action, Adventure, Sci-Fi",8.4,"The Avengers unite to reverse Thanos’ destruction, embarking on a time-travel mission to save the universe."
+Django Unchained,Movie,2012,"Drama, Western",8.4,A freed slave and a bounty hunter team up to rescue his wife from a brutal plantation owner.
+The Dark Knight Rises,Movie,2012,"Action, Adventure",8.4,"Batman returns to face a new threat, Bane, who aims to destroy Gotham with a nuclear weapon."
+WALL·E,Movie,2008,"Animation, Adventure, Sci-Fi",8.4,A lonely robot on a desolate Earth meets a sleek probe and embarks on a journey to save humanity.
+The Shining,Movie,1980,"Drama, Horror",8.4,A writer descends into madness while caretaking a haunted hotel with his family during winter.
+Inglourious Basterds,Movie,2009,"Adventure, Drama, War",8.3,Jewish soldiers and a theater owner plot to assassinate Nazi leaders in occupied France.
+Coco,Movie,2017,"Animation, Adventure, Family",8.4,A boy journeys to the Land of the Dead to uncover his family’s history and pursue his musical dreams.
+"The Good, the Bad and the Ugly",Movie,1966,Western,8.8,Three gunslingers compete to find buried Confederate gold during the Civil War.
+Braveheart,Movie,1995,"Biography, Drama, History",8.3,A Scottish warrior leads a rebellion against English oppression after personal tragedy.
+No Country for Old Men,Movie,2007,"Crime, Drama, Thriller",8.2,"A hunter stumbles on drug money, sparking a deadly chase by a ruthless killer."
+Reservoir Dogs,Movie,1992,"Crime, Drama, Thriller",8.3,A botched heist leads to distrust and violence among a group of criminals hiding out.
+The Wolf of Wall Street,Movie,2013,"Biography, Comedy, Crime",8.2,"A stockbroker’s rise to wealth through fraud leads to excess, corruption, and a fall."
+Toy Story,Movie,1995,"Animation, Adventure, Comedy",8.3,"A cowboy doll faces rivalry with a new space ranger toy, leading to an unexpected adventure."
+A Beautiful Mind,Movie,2001,"Biography, Drama",8.2,A brilliant mathematician battles schizophrenia while making groundbreaking discoveries.
+Requiem for a Dream,Movie,2000,Drama,8.3,"Four lives unravel under the grip of drug addiction in a raw, emotional tragedy."
+Eternal Sunshine of the Spotless Mind,Movie,2004,"Drama, Romance, Sci-Fi",8.3,"A couple undergoes a procedure to erase memories of each other, only to rediscover their connection."
+Amélie,Movie,2001,"Comedy, Romance",8.3,A quirky Parisian woman quietly transforms the lives of those around her with small acts of kindness.
+Mad Max: Fury Road,Movie,2015,"Action, Adventure, Sci-Fi",8.1,"In a post-apocalyptic wasteland, a drifter and a rebel flee a tyrannical ruler in a high-octane chase."
+The Grand Budapest Hotel,Movie,2014,"Adventure, Comedy, Crime",8.1,A concierge and his lobby boy navigate a zany plot involving a stolen painting and a family fortune.
+Blade Runner 2049,Movie,2017,"Drama, Sci-Fi, Thriller",8,"A replicant hunter uncovers a secret that threatens society, seeking answers in a dystopian future."
+Breaking Bad,Series,2008–2013,"Crime, Drama, Thriller",9.5,"A chemistry teacher turns to cooking meth to secure his family’s future, descending into crime."
+Game of Thrones,Series,2011–2019,"Action, Adventure, Drama",9.2,"Noble families fight for control of the Iron Throne while an ancient threat, the White Walkers, emerges."
+The Sopranos,Series,1999–2007,"Crime, Drama",9.2,A New Jersey mob boss balances his criminal empire with family life and therapy.
+Chernobyl,Series,2019,"Drama, History, Thriller",9.3,A dramatization of the 1986 nuclear disaster and the heroic efforts to contain its aftermath.
+The Wire,Series,2002–2008,"Crime, Drama",9.3,"A gritty look at Baltimore’s drug trade, police, and societal systems through interconnected lives."
+Band of Brothers,Series,2001,"Drama, History, War",9.4,"The story of Easy Company, a WWII paratrooper unit, through training and key battles."
+Better Call Saul,Series,2015–2022,"Crime, Drama",8.9,The prequel to Breaking Bad follows lawyer Saul Goodman’s rise in Albuquerque’s criminal underworld.
+Stranger Things,Series,2016–,"Drama, Fantasy, Horror",8.7,Kids in 1980s Indiana uncover supernatural mysteries tied to a secret government lab and a strange girl.
+The Last of Us,Series,2023–,"Action, Adventure, Drama",8.8,"A smuggler and a teen girl journey across a post-apocalyptic U.S., bonding amidst fungal-infected threats."
+Succession,Series,2018–2023,Drama,8.8,A wealthy family’s power struggles unfold as they vie for control of their media empire.
+Fargo,Series,2014–,"Crime, Drama, Thriller",8.9,"An anthology series inspired by the Coen Brothers’ film, exploring crime and dark humor in Minnesota."
+The Mandalorian,Series,2019–,"Action, Adventure, Sci-Fi",8.7,"A lone bounty hunter navigates the galaxy, protecting a mysterious baby Yoda from dark forces."
+True Detective,Series,2014–,"Crime, Drama, Mystery",8.9,An anthology series delving into complex crimes and the personal lives of detectives investigating them.
+Black Mirror,Series,2011–,"Drama, Sci-Fi, Thriller",8.8,An anthology exploring the dark side of technology and human nature in dystopian settings.
+Westworld,Series,2016–2022,"Drama, Mystery, Sci-Fi",8.6,A futuristic theme park with sentient robots unravels ethical and existential dilemmas.
+The Office (US),Series,2005–2013,Comedy,8.9,"A mockumentary about the quirky employees of a paper company, blending humor and heart."
+Friends,Series,1994–2004,"Comedy, Romance",8.9,"Six friends navigate life, love, and careers in New York City with humor and camaraderie."
+Sherlock,Series,2010–2017,"Crime, Drama, Mystery",9.1,A modern take on Sherlock Holmes solving complex cases in London with Dr. Watson.
+The Crown,Series,2016–2023,"Biography, Drama, History",8.6,A dramatization of Queen Elizabeth II’s reign and the historical events shaping her monarchy.
+Ted Lasso,Series,2020–2023,"Comedy, Drama, Sport",8.8,An optimistic American coach transforms a struggling English soccer team with kindness.
+House of the Dragon,Series,2022–,"Drama, Fantasy",8.4,"A prequel to Game of Thrones, chronicling the Targaryen dynasty’s rise and fall."
+Severance,Series,2022–,"Drama, Mystery, Sci-Fi",8.7,Employees with severed work and personal memories uncover dark secrets at a mysterious corporation.
+Peaky Blinders,Series,2013–2022,"Crime, Drama",8.8,"A Birmingham gangster family rises to power in post-WWI England, facing rivals and police."
+Mad Men,Series,2007–2015,Drama,8.7,A 1960s ad agency and its enigmatic creative director navigate a changing cultural landscape.
+The Boys,Series,2019–,"Action, Comedy, Crime",8.7,"Vigilantes take on corrupt, celebrity-like superheroes in a gritty, satirical world."
+Arcane,Series,2021–,"Animation, Action, Adventure",9,"In a steampunk world, two sisters’ conflict sparks tension between a rich city and its underbelly."
+Narcos,Series,2015–2017,"Biography, Crime, Drama",8.8,"The rise and fall of drug cartels, focusing on Pablo Escobar and the DEA’s pursuit."
+The Witcher,Series,2019–,"Action, Adventure, Fantasy",8.1,"A monster hunter navigates a world of magic, politics, and destiny with a powerful sorceress."
+Ozark,Series,2017–2022,"Crime, Drama, Thriller",8.5,"A financial planner relocates to launder money for a cartel, entangling his family in crime."
+Mindhunter,Series,2017–2019,"Crime, Drama, Thriller",8.6,FBI agents pioneer behavioral profiling to catch serial killers in the late 1970s.
+The Queen’s Gambit,Series,2020,Drama,8.6,An orphaned chess prodigy rises to fame while battling addiction and personal demons.
+Squid Game,Series,2021–,"Action, Drama, Mystery",8,Desperate contestants risk their lives in deadly games for a massive cash prize.
+Yellowstone,Series,2018–,"Drama, Western",8.7,"A Montana ranching family defends their land against developers, rivals, and internal strife."
+The Expanse,Series,2015–2022,"Drama, Sci-Fi",8.5,A sprawling sci-fi epic of political intrigue and survival in a colonized solar system.
+Daredevil,Series,2015–2018,"Action, Crime, Drama",8.6,A blind lawyer with heightened senses fights crime as a vigilante in Hell’s Kitchen.
+Cobra Kai,Series,2018–,"Action, Comedy, Drama",8.5,"Rival karate dojos reignite a feud decades after The Karate Kid, blending nostalgia and action."
+Fleabag,Series,2016–2019,"Comedy, Drama",8.7,A young woman navigates relationships and her quirky family while breaking the fourth wall.
+The Umbrella Academy,Series,2019–2024,"Action, Adventure, Comedy",8,Dysfunctional superhero siblings reunite to prevent an apocalypse and uncover family secrets.
+Loki,Series,2021–,"Action, Adventure, Fantasy",8.2,The Norse god of mischief navigates time and alternate realities after stealing the Tesseract.
+Your Honor,Series,2020–2023,"Crime, Drama, Thriller",7.6,A judge bends the law to protect his son after a hit-and-run spirals into a web of lies.
+The Haunting of Hill House,Series,2018–,"Drama, Horror, Mystery",8.6,"A family confronts their traumatic past in a haunted house, blending horror and drama."
+You,Series,2018–,"Crime, Drama, Thriller",7.7,A charming bookstore manager’s obsessive love leads to stalking and deadly consequences.
+Bridgerton,Series,2020–,"Drama, Romance",7.4,"A Regency-era family navigates love, scandal, and secrets in London’s high society."
+Interstellar,Movie,2014,"Adventure, Drama, Sci-Fi",8.6,A team of explorers travels through a wormhole to find a new home for humanity as Earth becomes uninhabitable.
+Parasite,Movie,2019,"Comedy, Drama, Thriller",8.5,"A poor family schemes to infiltrate a wealthy household, leading to unexpected and dark consequences."
+The Professional,Movie,1994,"Action, Crime, Drama",8.5,A young girl and a hitman form an unlikely bond as she seeks revenge for her family’s murder.
+Star Wars: Episode IV - A New Hope,Movie,1977,"Action, Adventure, Sci-Fi",8.6,"A young man joins forces with a Jedi, a pilot, and droids to save the galaxy from an evil Empire."
+Seven Samurai,Movie,1954,"Action, Drama",8.6,A village hires seven samurai to protect them from bandits in 16th-century Japan.
+Whiplash,Movie,2014,"Drama, Music",8.5,A young drummer and his intense music instructor push each other to the edge of obsession and genius.
+The Intouchables,Movie,2011,"Biography, Comedy, Drama",8.5,A wealthy paraplegic and his caregiver from the projects form an unexpected friendship.
+Harakiri,Movie,1962,"Action, Drama, Mystery",8.6,A ronin seeks to perform ritual suicide but uncovers a tale of corruption and honor.
+Grave of the Fireflies,Movie,1988,"Animation, Drama, War",8.5,Two siblings struggle to survive in Japan during the final months of WWII.
+The Empire of the Sun,Movie,1987,"Drama, War",7.7,A young boy in Shanghai is separated from his parents during Japan’s invasion in WWII.
+Terminator 2: Judgment Day,Movie,1991,"Action, Sci-Fi",8.5,A cyborg from the future protects a boy destined to lead a resistance against machines.
+The Pianist,Movie,2002,"Biography, Drama, War",8.5,A Jewish pianist survives the Holocaust by hiding and playing music in war-torn Warsaw.
+Psycho,Movie,1960,"Horror, Mystery, Thriller",8.5,A woman on the run checks into a motel run by a disturbed young man with dark secrets.
+Apocalypse Now,Movie,1979,"Drama, War",8.4,"A U.S. Army captain searches for a rogue colonel in Vietnam, confronting the horrors of war."
+Alien,Movie,1979,"Horror, Sci-Fi",8.4,A spaceship crew encounters a deadly alien creature that hunts them one by one.
+The Lives of Others,Movie,2006,"Drama, Thriller",8.4,A Stasi officer spying on a playwright in East Germany becomes entangled in his life.
+Rear Window,Movie,1954,"Mystery, Thriller",8.5,A photographer in a wheelchair spies on neighbors and suspects a murder.
+Once Upon a Time in the West,Movie,1968,Western,8.5,A mysterious stranger and a bandit team up to protect a widow from a ruthless railroad tycoon.
+American History X,Movie,1998,Drama,8.5,A former neo-Nazi tries to reform his life and save his brother from the same path of hate.
+Casablanca,Movie,1942,"Drama, Romance, War",8.5,A cynical nightclub owner in WWII Morocco faces love and moral choices when his ex-lover arrives.
+Modern Times,Movie,1936,"Comedy, Drama",8.5,A factory worker struggles with automation and modern life in this silent film classic.
+City Lights,Movie,1931,"Comedy, Drama, Romance",8.5,A tramp falls in love with a blind flower girl and tries to raise money for her sight.
+The Great Dictator,Movie,1940,"Comedy, Drama, War",8.4,A Jewish barber is mistaken for a dictator and uses his position to speak out against tyranny.
+Dr. Strangelove,Movie,1964,"Comedy, War",8.4,"A rogue general triggers a nuclear crisis, leading to darkly comedic efforts to avert disaster."
+Oldboy,Movie,2003,"Action, Drama, Mystery",8.4,A man imprisoned for 15 years seeks revenge on those who framed him.
+Witness for the Prosecution,Movie,1957,"Crime, Drama, Mystery",8.4,"A lawyer defends a man accused of murder, uncovering shocking twists in a courtroom drama."
+Paths of Glory,Movie,1957,"Drama, War",8.4,A WWI French colonel defends soldiers accused of cowardice in a rigged military trial.
+Sunset Boulevard,Movie,1950,"Drama, Film-Noir",8.4,A struggling screenwriter becomes entangled with a faded silent film star.
+The Great Escape,Movie,1963,"Adventure, Drama, War",8.2,Allied POWs plan a daring escape from a German prison camp during WWII.
+Some Like It Hot,Movie,1959,"Comedy, Music, Romance",8.2,Two musicians disguise themselves as women to escape mobsters after witnessing a crime.
+Raiders of the Lost Ark,Movie,1981,"Action, Adventure",8.4,An archaeologist races Nazis to find a mystical artifact with immense power.
+Double Indemnity,Movie,1944,"Crime, Drama, Film-Noir",8.3,An insurance salesman is drawn into a deadly scheme by a seductive femme fatale.
+To Kill a Mockingbird,Movie,1962,"Crime, Drama",8.3,A lawyer defends a Black man wrongfully accused of rape in a prejudiced Southern town.
+The Sting,Movie,1973,"Comedy, Crime, Drama",8.3,Two con men team up to pull off an elaborate sting against a mob boss.
+Bicycle Thieves,Movie,1948,Drama,8.3,"A man searches for his stolen bicycle, vital to his family’s survival in post-war Italy."
+Singin’ in the Rain,Movie,1952,"Comedy, Musical, Romance",8.3,A silent film star navigates the transition to talkies while falling in love.
+Metropolis,Movie,1927,"Drama, Sci-Fi",8.3,A futuristic city’s worker class revolts against its oppressive elite in a dystopian tale.
+The Graduate,Movie,1967,"Comedy, Drama, Romance",8,A disillusioned college graduate is seduced by an older woman and falls for her daughter.
+Amadeus,Movie,1984,"Biography, Drama, Music",8.4,Mozart’s genius and rivalry with a jealous composer lead to tragedy and triumph.
+The Apartment,Movie,1960,"Comedy, Drama, Romance",8.3,"An office worker lends his apartment to executives for affairs, complicating his own romance."
+2001: A Space Odyssey,Movie,1968,"Adventure, Sci-Fi",8.3,"Humankind’s evolution is guided by a mysterious monolith, leading to a cosmic journey."
+Citizen Kane,Movie,1941,"Drama, Mystery",8.3,"A reporter investigates the life of a media tycoon through flashbacks, uncovering ambition and loss."
+North by Northwest,Movie,1959,"Action, Adventure, Mystery",8.3,"An ad man is mistaken for a spy, leading to a thrilling cross-country chase."
+Vertigo,Movie,1958,"Mystery, Romance, Thriller",8.3,"A detective with a fear of heights investigates a woman’s strange behavior, spiraling into obsession."
+Lawrence of Arabia,Movie,1962,"Adventure, Biography, Drama",8.3,"A British officer leads an Arab revolt during WWI, facing epic battles and personal turmoil."
+The Bridge on the River Kwai,Movie,1957,"Adventure, Drama, War",8.1,"British POWs build a bridge for their Japanese captors, unaware of an Allied plan to destroy it."
+Chinatown,Movie,1974,"Drama, Mystery, Thriller",8.1,A private detective uncovers corruption and dark secrets in 1930s Los Angeles.
+Raging Bull,Movie,1980,"Biography, Drama, Sport",8.2,"A boxer’s rise and fall are marked by rage, jealousy, and self-destructive behavior."
+Good Will Hunting,Movie,1997,"Drama, Romance",8.3,A janitor with a genius-level intellect is mentored by a therapist to unlock his potential.
+The King’s Speech,Movie,2010,"Biography, Drama, History",8,A stuttering king works with a speech therapist to overcome his fears before a crucial address.
+Gone with the Wind,Movie,1939,"Drama, History, Romance",8.2,A Southern belle navigates love and survival during the Civil War and Reconstruction.
+The Sound of Music,Movie,1965,"Biography, Drama, Musical",8.1,"A nun becomes a governess, bringing music and joy to a widower’s seven children."
+Titanic,Movie,1997,"Drama, Romance",7.9,A young woman and a poor artist fall in love aboard the doomed ocean liner.
+Star Wars: Episode VI - Return of the Jedi,Movie,1983,"Action, Adventure, Sci-Fi",8.3,The rebels plan a final assault on the Empire while Luke confronts Darth Vader.
+Avengers: Infinity War,Movie,2018,"Action, Adventure, Sci-Fi",8.4,The Avengers fight to stop Thanos from collecting powerful stones to wipe out half the universe.
+Joker,Movie,2019,"Crime, Drama, Thriller",8.4,A failed comedian’s descent into madness transforms him into Gotham’s chaotic clown prince.
+The Big Lebowski,Movie,1998,"Comedy, Crime",8.1,"A slacker known as “The Dude” is mistaken for a millionaire, sparking a zany adventure."
+Inside Out,Movie,2015,"Animation, Adventure, Comedy",8.1,"A girl’s emotions—Joy, Sadness, and others—navigate her mind during a major life change."
+La La Land,Movie,2016,"Comedy, Drama, Musical",8,An aspiring actress and a jazz musician chase dreams and love in Los Angeles.
+V for Vendetta,Movie,2005,"Action, Drama, Sci-Fi",8.1,A masked revolutionary inspires a rebellion against a totalitarian regime.
+The Truman Show,Movie,1998,"Comedy, Drama",8.2,"A man discovers his entire life is a staged reality TV show, prompting a quest for freedom."
+Up,Movie,2009,"Animation, Adventure, Comedy",8.2,An elderly widower and a young scout embark on a balloon-powered adventure to South America.
+Pirates of the Caribbean: The Curse of the Black Pearl,Movie,2003,"Action, Adventure, Fantasy",8.1,A pirate and a blacksmith team up to rescue a kidnapped governor’s daughter.
+The Help,Movie,2011,Drama,8.1,An aspiring writer chronicles the lives of African-American maids in 1960s Mississippi.
+Shutter Island,Movie,2010,"Mystery, Thriller",8.2,"A U.S. Marshal investigates a disappearance at a remote asylum, uncovering dark secrets."
+There Will Be Blood,Movie,2007,Drama,8.2,"An oilman’s ruthless ambition leads to wealth, isolation, and conflict in early 20th-century America."
+Prisoners,Series,2013,"Crime, Drama, Mystery",8.1,"A father takes desperate measures to find his missing daughter, clashing with a detective."
+Deadwood,Series,2004–2006,"Drama, Western",8.6,"A lawless mining town in 1870s South Dakota breeds crime, corruption, and colorful characters."
+Boardwalk Empire,Series,2010–2014,"Crime, Drama",8.5,"A politician runs Atlantic City’s criminal underworld during Prohibition, balancing power and greed."
+Justified,Series,2010–2015,"Crime, Drama, Western",8.6,"A U.S. Marshal enforces his own brand of justice in rural Kentucky, facing off with criminals."
+The West Wing,Series,1999–2006,Drama,8.9,A fictional U.S. president and his staff navigate political and personal challenges in the White House.
+Six Feet Under,Series,2001–2005,Drama,8.7,"A family running a funeral home grapples with death, relationships, and personal struggles."
+Downton Abbey,Series,2010–2015,"Drama, Romance",8.7,An aristocratic family and their servants navigate life in early 20th-century England.
+Battlestar Galactica,Series,2004–2009,"Drama, Sci-Fi",8.7,"Humans flee a robotic uprising, seeking a mythical planet called Earth in a spacefaring saga."
+Firefly,Series,2002–2003,"Adventure, Sci-Fi",9,A ragtag spaceship crew takes on risky jobs in a futuristic frontier.
+Friday Night Lights,Series,2006–2011,"Drama, Sport",8.7,A small-town Texas high school football team and its coach face community pressures and dreams.
+The Shield,Series,2002–2008,"Crime, Drama, Thriller",8.7,"A corrupt cop leads an elite strike team in Los Angeles, blurring lines between law and crime."
+Sons of Anarchy,Series,2008–2014,"Crime, Drama, Thriller",8.5,"A biker gang navigates crime, loyalty, and family ties in a violent underworld."
+House M.D.,Series,2004–2012,"Drama, Mystery",8.7,A brilliant but unconventional doctor solves complex medical cases with his diagnostic team.
+Lost,Series,2004–2010,"Adventure, Drama, Mystery",8.3,Survivors of a plane crash uncover mysteries on a strange island.
+The Leftovers,Series,2014–2017,"Drama, Mystery",8.3,A small town copes with the sudden disappearance of 2% of the world’s population.
+Mr. Robot,Series,2015–2019,"Crime, Drama, Thriller",8.5,A hacker with social anxiety takes on a powerful corporation in a digital uprising.
+Hannibal,Series,2013–2015,"Crime, Drama, Horror",8.5,A profiler and a cannibalistic psychiatrist hunt serial killers while grappling with their own darkness.
+The Americans,Series,2013–2018,"Crime, Drama, Thriller",8.4,"Soviet spies pose as an American couple during the Cold War, balancing espionage and family."
+Vikings,Series,2013–2020,"Action, Adventure, Drama",8.5,A Norse farmer rises to become a legendary Viking warrior and leader.
+The Handmaid’s Tale,Series,2017–,"Drama, Sci-Fi, Thriller",8.4,"In a dystopian future, a woman navigates a totalitarian society that enslaves fertile women."
+Better Things,Series,2016–2022,"Comedy, Drama",7.9,A single mother and actress raises three daughters while navigating her career and life.
+Euphoria,Series,2019–,Drama,8.4,"Teens navigate love, addiction, and identity in a raw, emotional coming-of-age story."
+Atlanta,Series,2016–2022,"Comedy, Drama",8.6,A college dropout manages his cousin’s rising rap career while facing life’s absurdities.
+Killing Eve,Series,2018–2022,"Action, Drama, Thriller",8.2,A security operative and a psychopathic assassin become obsessed with each other in a deadly game.
+Schitt’s Creek,Series,2015–2020,Comedy,8.5,A wealthy family loses everything and rebuilds their lives in a quirky small town.
+What We Do in the Shadows,Series,2019–,"Comedy, Fantasy, Horror",8.6,Vampires in Staten Island navigate modern life with humor and supernatural antics.
+This Is Us,Series,2016–2022,"Drama, Romance",8.7,"A family’s interconnected lives unfold through nonlinear storytelling, exploring love and loss."
+The Marvelous Mrs. Maisel,Series,2017–2023,"Comedy, Drama",8.7,"A 1950s housewife becomes a stand-up comedian, defying societal norms with wit and charm."
+Bosch,Series,2014–2021,"Crime, Drama",8.5,A grizzled LAPD detective solves murders while facing personal and professional challenges.

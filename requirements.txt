@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+mindsdb_sdk
+pandas
