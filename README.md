@@ -7,7 +7,7 @@ This project is a FastAPI backend for [BingeMate](https://github.com/anuragkanoj
 - 🦙 Ollama (Mistral + Granite embedding)
 - 🐳 Docker for environment management
 
----
+<br/>
 
 | Demo Video                                                                 | Blog Post                                                                 |
 |----------------------------------------------------------------------------|--------------------------------------------------------------------------|
