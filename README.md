@@ -119,3 +119,8 @@ uvicorn main:app --reload
 ```
 
 As backend has been configured, now you can use BingeMate app by following this link - [BingeMate](https://github.com/anuragkanojiya1/BingeMate)
+
+## 🧑‍💻 Author
+Anurag — Android app Developer | AI Enthusiast | Spring Boot
+
+• [Twitter](https://x.com/AnuKanojiya829) • [LinkedIn](https://linkedin.com/in/anurag-kanojiya-101312286) • [GitHub](https://github.com/anuragkanojiya1)
