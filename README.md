@@ -1,3 +1,5 @@
+<h1 align="center">⚙️ BingeMate-Backend</h1>
+
 This project is a FastAPI backend for [BingeMate](https://github.com/anuragkanojiya1/BingeMate) querying a **MindsDB Knowledge Base** powered by **Ollama LLMs** and embedding models. It integrates:
 
 - 🌐 FastAPI backend
@@ -6,6 +8,11 @@ This project is a FastAPI backend for [BingeMate](https://github.com/anuragkanoj
 - 🐳 Docker for environment management
 
 ---
+
+| Demo Video                                                                 | Blog Post                                                                 |
+|----------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| [![YouTube](https://github.com/user-attachments/assets/6cf3059f-84e8-4800-bade-11bd46a5f2e5)](https://youtu.be/QCIXBK0dxEs?si=rYhLqLZQ6KfP0onP) | [![Blog](https://github.com/user-attachments/assets/f4a138fc-9692-4486-bae4-6bb666ee3f72)](https://dev.to/anuragkanojiya/semantic-search-for-movies-series-with-mindsdb-and-fastapi-g39) |
+
 
 ## 📦 Requirements
 
